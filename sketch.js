@@ -12,7 +12,7 @@
 	happyDog=loadImage("images/dogImg1.png");
 
 	BedRoom=loadImage("images/Bed Room.png");
-	arden=loadImage("images/Garden.png");
+	Garden=loadImage("images/Garden.png");
 	washRoom=loadImage("images/Wash Room.png");
 	}
 
